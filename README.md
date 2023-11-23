@@ -16,4 +16,3 @@ Object obj = engine.eval("""
                          hello();
                          """);
 
-![image](https://github.com/alargewhale/alargewhale.github.io/assets/139251353/4a17eb15-0ef4-440c-a950-8ff2bb091326)
